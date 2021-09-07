@@ -17,6 +17,7 @@
 
 
 new branch
+<<<<<<< HEAD
 
 master 好惆怅呀，马上纪念日咯，怎么办喏
 
@@ -48,3 +49,7 @@ Java Maven
 
 git add .
 eidt stash
+=======
+>>>>>>> parent of fa16a83 (9月23纪念日)
+
+分支3搞事情，2021-09-07 星期二 11：6：::0
