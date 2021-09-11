@@ -4,3 +4,5 @@ master
 1
 bugFix
 >>>>>>> bugFix
+
+branch dev
