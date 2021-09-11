@@ -6,3 +6,4 @@ bugFix
 >>>>>>> bugFix
 
 branch dev
+yes
