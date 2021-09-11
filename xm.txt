@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master
+=======
+1
+bugFix
+>>>>>>> bugFix
